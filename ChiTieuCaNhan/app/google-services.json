@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "804293988126",
+    "firebase_url": "https://qlct-14428-default-rtdb.firebaseio.com",
+    "project_id": "qlct-14428",
+    "storage_bucket": "qlct-14428.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804293988126:android:525febed05b7debb48430f",
+        "android_client_info": {
+          "package_name": "com.hynguyen.chitieucanhan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM7DwtSTxqFq9kQyLclSf8vTBrMnlEEQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804293988126:android:f7e546bf316103e248430f",
+        "android_client_info": {
+          "package_name": "com.mywalletapp.QLCT"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM7DwtSTxqFq9kQyLclSf8vTBrMnlEEQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

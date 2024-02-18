@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.PhanHoiActivity">
+
+    <TextView
+        android:id="@+id/txtFeedBack"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:background="@drawable/background_edittext"
+        android:gravity="center"
+        android:text="FeedBack"
+        android:textStyle="bold"
+        android:textSize="30sp" />
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtFeedBack"
+        android:layout_margin="15dp"
+        android:background="@drawable/background_edittext"
+        android:drawablePadding="15dp"
+        android:inputType="textCapSentences"
+        android:padding="15dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <EditText
+                android:id="@+id/editEmail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColorHint="@color/black"
+                android:textStyle="bold"
+                android:maxLines="1"
+                android:layout_marginStart="15dp"
+                android:paddingStart="15dp"
+                android:layout_marginBottom="15dp"
+                android:hint="@string/Nhập_Email">
+
+            </EditText>
+            <EditText
+                android:id="@+id/editNoiDung"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColorHint="@color/black"
+                android:textStyle="bold"
+                android:paddingStart="15dp"
+                android:layout_marginStart="15dp"
+                android:layout_marginBottom="15dp"
+                android:hint="@string/Nhập_Nội_dung_Phản_hồi">
+
+            </EditText>
+            <Button
+                android:id="@+id/btnGui"
+                android:layout_width="wrap_content"
+                android:layout_height="55dp"
+                android:backgroundTint="@color/button_success"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:text="@string/Gửi">
+            </Button>
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

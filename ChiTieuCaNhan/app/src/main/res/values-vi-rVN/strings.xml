@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Tiêu_đề">Tiêu đề</string>
+    <string name="Trang_chủ">Trang chủ</string>
+    <string name="Thu_chi">Thu chi</string>
+    <string name="Cài_đặt">Cài đặt</string>
+
+    <string name="Nhập_Email">Nhập Email</string>
+    <string name="Nhập_Mật_Khẩu">Nhập Mật Khẩu</string>
+    <string name="Nhập_Lại_Mật_Khẩu">Nhập Lại Mật Khẩu</string>
+
+    <string name="Mời_bạn_đánh_giá">Mời bạn đánh giá</string>
+    <string name="Vui_lòng_đánh_giá_ứng_dụng_của_chúng_tôi_đánh_giá_của_các_bạn_là_động_lực_để_chúng_tôi_phát_triển_ứng_dụng_này_tốt_hơn.">Vui lòng đánh giá ứng dụng của chúng tôi, đánh giá của các bạn là động lực để chúng tôi phát triển ứng dụng này tốt hơn.</string>
+    <string name="Để_lần_sau">Để lần sau</string>
+
+    <string name="Đăng_Nhập">Đăng Nhập</string>
+
+    <string name="Đăng_Kí">Đăng Kí</string>
+
+    <string name="Gửi_Phản_hồi">Gửi Phản hồi</string>
+
+    <string name="Thêm_khoản_thu_chi">Thêm khoản thu chi</string>
+    <string name="Số_tiền">Số tiền</string>
+
+    <string name="Ví_Tiền">Ví Tiền</string>
+
+    <string name="Xóa">Xóa</string>
+
+    <string name="Nhập">Nhập</string>
+    <string name="Xác_nhận">Xác nhận</string>
+
+    <string name="Bạn_chưa_có_giao_dịch_trong_ngày">Bạn chưa có giao dịch trong ngày</string>
+
+    <string name="Chọn_danh_mục">Chọn danh mục</string>
+
+    <string name="Chọn_ví_tiền">Chọn ví tiền</string>
+
+    <string name="Nhập_Email_Phản_hồi">Nhập Email Phản hồi</string>
+    <string name="Nhập_Nội_dung_Phản_hồi">Nhập Nội dung Phản hồi</string>
+    <string name="Gửi">Gửi</string>
+    <string name="Tổng_Thu">Tổng Thu</string>
+    <string name="Các_tài_khoản">Các tài khoản</string>
+    <string name="Các_giao_dịch">Các giao dịch</string>
+
+    <string name="Họ_tên">Họ tên</string>
+    <string name="Số_điện_thoại">Số điện thoại</string>
+    <string name="Địa_chỉ">Địa chỉ</string>
+    <string name="Email">Email</string>
+    <string name="Hạng">Hạng</string>
+    <string name="Nhập_họ_tên">Nhập họ tên</string>
+    <string name="Nhập_số_điện_thoại">Nhập số điện thoại</string>
+    <string name="Nhập_địa_chỉ">Nhập địa chỉ</string>
+    <string name="Nhập_email">Nhập email</string>
+    <string name="Bạn_đang_hạng_bạch_kim">Bạn đang hạng bạch kim</string>
+
+    <string name="Ví_tiền">Ví Tiền</string>
+
+    <string name="Danh_mục">Danh mục</string>
+    <string name="Đánh_giá">Đánh giá</string>
+    <string name="Phản_hồi">Phản hồi</string>
+    <string name="Nhắc_nhở">Nhắc nhở</string>
+    <string name="Đăng_xuất">Đăng xuất</string>
+    <string name="Profile">Profile</string>
+
+    <string name="Loại_tiền_tệ">Loại tiền tệ</string>
+
+    <string name="Chỉnh_sửa">Chỉnh sửa</string>
+
+    <string name="Thêm_danh_mục">Thêm danh mục</string>
+    <string name="Loại_danh_mục">Loại danh mục</string>
+    <string name="Thu">Thu</string>
+    <string name="Chi">Chi</string>
+
+    <string name="Chọn_hình">Chọn hình</string>
+    <string name="Thêm_ví_tiền">Thêm ví tiền</string>
+    <string name="Tên_ví_tiền">Tên ví tiền</string>
+    <string name="Số_tiền_ban_đầu">Số tiền ban đầu</string>
+    <string name="Hủy_bỏ">Hủy bỏ</string>
+    <string name="Hoàn_thành">Hoàn thành</string>
+
+    <string name="Ghi_chú">Ghi chú</string>
+
+    <string name="Tên_danh_mục">Tên danh mục</string>
+
+    <string name="Tháng">Tháng</string>
+
+    <string name="Tên_Ví_Tiền">Mời bạn đánh giá</string>
+    <string name="Lưu">Lưu</string>
+    <string name="Lời_Nhắc">Lời Nhắc</string>
+    <string name="Nội_dung">Nội dung:</string>
+    <string name="Số_tiền_Chi_Thu">Số tiền Chi/Thu:</string>
+    <string name="Giờ">Giờ:</string>
+    <string name="Lặp_lại">Lặp lại :</string>
+    <string name="Giờ_báo_thức">Giờ báo thức</string>
+    <string name="Thứ_2">Thứ 2</string>
+    <string name="Thứ_3">Thứ 3</string>
+    <string name="Thứ_4">Thứ 4</string>
+    <string name="Thứ_5">Thứ 5</string>
+    <string name="Thứ_6">Thứ 6</string>
+    <string name="Thứ_7">Thứ 7</string>
+    <string name="Chủ_Nhật">Chủ Nhật</string>
+    <string name="Nội_dung_lời_nhắc">Nội dung lời nhắc</string>
+
+</resources>

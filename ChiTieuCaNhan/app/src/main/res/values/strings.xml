@@ -1,0 +1,164 @@
+<resources>
+    <string name="app_name" translatable="false">Chi tiêu cá nhân</string>
+    <string name="Open" translatable="false">Open</string>
+    <string name="Close" translatable="false">Close</string>
+    <string-array name="img_cat">
+        <item>cat_calculator</item>
+        <item>cat_car</item>
+        <item>cat_cart</item>
+        <item>cat_clapboard</item>
+        <item>cat_clipboard</item>
+        <item>cat_die</item>
+        <item>cat_dolly</item>
+        <item>cat_document</item>
+        <item>cat_eye</item>
+        <item>cat_fashion</item>
+        <item>cat_filmreel</item>
+        <item>cat_gamecontroller</item>
+        <item>cat_gas</item>
+        <item>cat_global</item>
+        <item>cat_globe</item>
+        <item>cat_hazard</item>
+        <item>cat_heart</item>
+        <item>cat_hotair</item>
+        <item>cat_location</item>
+        <item>cat_money</item>
+        <item>cat_motorcycle</item>
+        <item>cat_phone</item>
+        <item>cat_shoeprints</item>
+        <item>cat_shop</item>
+        <item>cat_plugin</item>
+        <item>ic_restaurant</item>
+        <item>cat_pigbank</item>
+        <item>cat_beer</item>
+        <item>cat_clothes</item>
+        <item>cat_lipstick</item>
+        <item>cat_faucet</item>
+        <item>cat_moneybag</item>
+        <item>cat_creditcard</item>
+        <item>cat_wallet</item>
+        <item>cat_bitcoin</item>
+        <item>cat_hospital</item>
+
+    </string-array>
+    <string-array name="img_wallet">
+        <item>wallet_cash</item>
+        <item>wallet_bank</item>
+        <item>wallet_creditcard</item>
+        <item>wallet_bitcoin</item>
+        <item>wallet_moneybox</item>
+        <item>wallet_pigbank</item>
+        <item>wallet_saving</item>
+        <item>wallet_boxmoney</item>
+        <item>wallet_accountant</item>
+        <item>wallet_ledger</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="Tiêu_đề">Tittle</string>
+    <string name="Trang_chủ">Home</string>
+    <string name="Thu_chi">Income and Expenses</string>
+    <string name="Cài_đặt">Settings</string>
+
+    <string name="Nhập_Email">Enter Email</string>
+    <string name="Nhập_Mật_Khẩu">Enter Password</string>
+    <string name="Nhập_Lại_Mật_Khẩu">Reenter Password</string>
+
+    <string name="Mời_bạn_đánh_giá">Please rate us</string>
+    <string name="Vui_lòng_đánh_giá_ứng_dụng_của_chúng_tôi_đánh_giá_của_các_bạn_là_động_lực_để_chúng_tôi_phát_triển_ứng_dụng_này_tốt_hơn.">Rate App</string>
+    <string name="Để_lần_sau">Next Time</string>
+
+    <string name="Đăng_Nhập">Log In</string>
+    <string name="Đăng_Kí">Register</string>
+
+    <string name="Gửi_Phản_hồi">Send Feedback</string>
+
+    <string name="Thêm_khoản_thu_chi">Add Income Expenses</string>
+    <string name="Số_tiền">Amount</string>
+
+    <string name="Ví_Tiền">Wallet</string>
+
+    <string name="Xóa">Delete</string>
+
+    <string name="Nhập">Enter</string>
+    <string name="Xác_nhận">Confirm</string>
+
+    <string name="Bạn_chưa_có_giao_dịch_trong_ngày">No Transactions Today</string>
+
+    <string name="Chọn_danh_mục">Choose Category</string>
+
+    <string name="Chọn_ví_tiền">Choose Wallet</string>
+
+    <string name="Nhập_Email_Phản_hồi">Send Feedback Email</string>
+    <string name="Nhập_Nội_dung_Phản_hồi">Please spend a little of your time to send some feedback about us</string>
+    <string name="Gửi">Send</string>
+    <string name="Tổng_Thu">Income total</string>
+    <string name="Các_tài_khoản">Accounts</string>
+    <string name="Các_giao_dịch">Transactions</string>
+
+    <string name="Họ_tên">Full Name</string>
+    <string name="Số_điện_thoại">Phone Number</string>
+    <string name="Địa_chỉ">Address</string>
+    <string name="Email">Email</string>
+    <string name="Hạng">Rank</string>
+    <string name="Nhập_họ_tên">Enter Full Name</string>
+    <string name="Nhập_số_điện_thoại">Enter Phone Number</string>
+    <string name="Nhập_địa_chỉ">Enter Address</string>
+    <string name="Nhập_email">Enter Email</string>
+    <string name="Bạn_đang_hạng_bạch_kim">You are in Diamond Rank</string>
+
+    <string name="Ví_tiền">Wallet</string>
+
+    <string name="Danh_mục">Category</string>
+    <string name="Đánh_giá">Rate</string>
+    <string name="Phản_hồi">Feedback</string>
+    <string name="Nhắc_nhở">Reminder</string>
+    <string name="Đăng_xuất">Log Out</string>
+    <string name="Profile">Profile</string>
+
+    <string name="Loại_tiền_tệ">Currency Type</string>
+
+    <string name="Chỉnh_sửa">Edit</string>
+
+    <string name="Thêm_danh_mục">Add Category</string>
+    <string name="Loại_danh_mục">Category Type</string>
+    <string name="Thu">Income</string>
+    <string name="Chi">Expenses</string>
+
+    <string name="Chọn_hình">Select Image</string>
+    <string name="Thêm_ví_tiền">Add Wallet</string>
+    <string name="Tên_ví_tiền">Wallet Name</string>
+    <string name="Số_tiền_ban_đầu">Initial Amount</string>
+    <string name="Hủy_bỏ">Cancel</string>
+    <string name="Hoàn_thành">Complete</string>
+
+    <string name="Ghi_chú">Note</string>
+
+
+    <string name="Lưu">Save</string>
+
+    <string name="Tên_danh_mục">Category Name</string>
+
+    <string name="Tháng">Month</string>
+
+    <string name="Tên_Ví_Tiền">Wallet Name</string>
+
+    <string name="Lời_Nhắc">Reminder</string>
+    <string name="Nội_dung">Content:</string>
+    <string name="Số_tiền_Chi_Thu">Amount In/Out:</string>
+    <string name="Giờ">Time:</string>
+    <string name="Lặp_lại">Repeat:</string>
+    <string name="Giờ_báo_thức">Alarm Time:</string>
+    <string name="Thứ_2">Monday</string>
+    <string name="Thứ_3">Tuesday</string>
+    <string name="Thứ_4">Wednesday</string>
+    <string name="Thứ_5">Thursday</string>
+    <string name="Thứ_6">Friday</string>
+    <string name="Thứ_7">Saturday</string>
+    <string name="Chủ_Nhật">Sunday</string>
+
+    <string name="Nội_dung_lời_nhắc">Reminder Content</string>
+
+
+
+</resources>
